@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyagaur2202&label=Profile%20views&color=0e75b6&style=flat" alt="diyagaur2202" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **PowerBI**
 
-- 💬 Ask me about **Python , HTML , CSS , Javascript**
+- 💬 Ask me about **Python , HTML , CSS , Javascript , MS Excel , PowerBI **
 
 - 📫 How to reach me **diyagaur2202@gmail.com**
 
